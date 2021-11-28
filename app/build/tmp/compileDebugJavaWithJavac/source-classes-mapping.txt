@@ -1,0 +1,21 @@
+com/example/catalagoanimes/database/dao/animeDAO.java
+ com.example.catalagoanimes.database.dao.animeDAO
+com/example/catalagoanimes/MainActivity.java
+ com.example.catalagoanimes.MainActivity
+com/example/catalagoanimes/CadastroActivity.java
+ com.example.catalagoanimes.CadastroActivity
+com/example/catalagoanimes/controller/AnimeDAO.java
+ com.example.catalagoanimes.controller.AnimeDAO
+com/example/catalagoanimes/database/animeDB.java
+ com.example.catalagoanimes.database.animeDB
+com/example/catalagoanimes/entity/Anime.java
+ com.example.catalagoanimes.entity.Anime
+com/example/catalagoanimes/DetalhesActivity.java
+ com.example.catalagoanimes.DetalhesActivity
+ com.example.catalagoanimes.DetalhesActivity$1
+com/example/catalagoanimes/adapter/AnimeAdapter.java
+ com.example.catalagoanimes.adapter.AnimeAdapter
+com/example/catalagoanimes/adapter/AnimeViewHolder.java
+ com.example.catalagoanimes.adapter.AnimeViewHolder
+com/example/catalagoanimes/BuildConfig.java
+ com.example.catalagoanimes.BuildConfig
